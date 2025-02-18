@@ -173,11 +173,6 @@
     line-height: 21px;
     }
 
-body{
-    font-family: 'Poppins', sans-serif;
-    background-color: #F9F9F9;
-}
-
 .container{
     max-width: 1440px;
     width: 100%;
@@ -324,3 +319,4 @@ body{
     font-weight: 700;
     cursor: pointer;
 }
+
