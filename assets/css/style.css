@@ -13,13 +13,13 @@
   }
   
   .search{
-    width: 47;
-    height: 47;
+    width: 47px;
+    height: 47px;
   }
   
   .logo img {
     width: 234px;
-    height: 49;
+    height: 49px;
   }
   
   .navigation {
@@ -100,7 +100,7 @@
   }
   
   .Footer1 {
-    max-width: 1440;
+    max-width: 1440px;
     height: 308px;
     background-color: rgba(255, 255, 255, 1);
     margin-top: 70px;
@@ -197,7 +197,7 @@
 }
 
 .card-btn {
-    background: url(./assets/images/trending\ first.png);
+    background: url("/assets/images/trendingfirst.png");
     padding: 25.37px 337.55px 304.44px 34.14px;
     width: max-content;
     background-position: center;
@@ -281,7 +281,7 @@
 }
 
 .extra-btn {
-    background: url(./assets/images/trending\ second.png);
+    background: url("/assets/images/trendingsecond.png");
     padding: 25.37px 337.55px 304.44px 34.14px;
     width: max-content;
     background-position: center;
@@ -301,7 +301,7 @@
 }
 
 .extra-card {
-    background: url(./assets/images/trending\ third.png);
+    background: url("/assets/images/trendingthird.png");
     padding: 25.37px 337.55px 304.44px 34.14px;
     width: max-content;
     background-position: center;
