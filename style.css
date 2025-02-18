@@ -201,7 +201,6 @@ h6 {
   padding-top: 50px;
   border-radius: 20px;
   width: 1200px;
-
 }
 .latest-trends .fashion{
   position: absolute;
@@ -223,6 +222,7 @@ h6 {
   width: 100vw;
   height: 700px;
   border-radius: 20px;
+ 
 
 }
 .mallory{
@@ -269,3 +269,151 @@ h6 {
 
 
 
+
+.container{
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 84px;
+  padding-right: 84px;
+  padding-top: 88px;
+}
+
+.box{
+  max-width: 1204px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 48px 58px;
+  align-items: center;
+  margin-bottom: 69px;
+}
+
+.card{
+  display: flex;
+  gap: 45.49px;  
+}
+
+.card-btn {
+  background: url(assets/images/trending\ first.png);
+  padding: 25.37px 337.55px 304.44px 34.14px;
+  width: max-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.card-btn a{
+  padding: 9.42px 53px 9.5px 52px;
+  background-color: #262626;
+  color: white;
+  border-radius: 40px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 35.66px 28.75px;
+}
+
+.card-top {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 16.86px;
+  padding-top: 25.58px;
+}
+
+.card-top img {
+  border-radius: 100%;
+}
+
+.card-top div  {
+  display: flex;
+  flex-direction: row;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  gap: 218px;
+  color: #BCBCBC;
+  padding-right: 125px;
+}
+
+.card-mid h1 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #262626;
+  width: 543px;
+  height: 94px;
+}
+
+.card-mid p {
+  font-size: 16px;
+  font-weight: 400;
+  width: 429px;
+  height: 73px;
+  color: #262626;
+}
+
+.card-bot{
+  margin-bottom: 37px;
+}
+
+.card-bot a{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 19.75px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 0.24em;
+  color: #4CE0D7;
+}
+
+.extra-btn {
+  background: url(assets/images/trending\ second.png);
+  padding: 25.37px 337.55px 304.44px 34.14px;
+  width: max-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.extra-btn a{
+  padding: 9.3px 44.5px 9.6px 43.3px;
+  background-color: #262626;
+  color: white;
+  border-radius: 40px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.extra-card {
+  background: url(assets/images/trending\ third.png);
+  padding: 25.37px 337.55px 304.44px 34.14px;
+  width: max-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
+
+.extra-card a{
+  padding: 9.3px 44.5px 9.6px 43.3px;
+  background-color: #262626;
+  color: white;
+  border-radius: 40px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
