@@ -48,6 +48,7 @@
   .sec1-img{
     display: flex;
     justify-content: center;
+    padding-bottom: 88px;
   }
   
   .sec1-img img{
