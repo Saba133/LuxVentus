@@ -172,3 +172,99 @@
     size: 14px;
     line-height: 21px;
     }
+  .latest-trends-image{
+    background-image: url(../images/latest-trends.png); 
+    background-position: center;
+    background-size: cover;  
+    width: 1200px;
+    height: 360px;
+    border-radius:20px; 
+
+  }
+  .latest-trends-description{
+  
+    display: flex;
+    align-items: center;
+    color: #BCBCBC;
+    gap: 50px;
+
+  }
+  .latest-trends .latest-trends-description p{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .latest-trends{
+    position: relative;
+    height: 700px;
+    padding-top: 50px;
+    border-radius: 20px;
+    width: 1200px;
+
+  }
+  .latest-trends .fashion{
+    position: absolute;
+    color: white;
+    background-color: #262626;
+    width: 230px;
+    height: 35px;
+    border-radius: 40px;
+    top:100px;
+    left:50px;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   
+  }
+  .latest-trends-section{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 700px;
+    border-radius: 20px;
+
+  }
+  .mallory{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 60px;
+    max-width: 65px;
+  }
+  .latest-trends-description-2{
+    max-width: 750px;
+    margin-top: 25px;
+    margin-left: 50px;
+    font-weight: 400;
+    
+  }
+  .latest-trends-description-h1{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 50px;
+  }
+  .coming{
+    display: flex;
+    margin-left: 400px;
+  }
+  .latest-trends-description-2 .arrow a{
+    display: flex;
+    align-items: center;
+
+  }
+  .arrow{
+    display: flex;
+    margin-top: 50px;
+    margin-left: -10px;
+  
+    
+  }
+  .arrow a{
+    color: #4CE0D7;
+    font-weight: bolder;
+  }
+  .arrow a:hover{
+    color: #4e79b5;
+  }
+  
+
+  
