@@ -48,6 +48,7 @@
   .sec1-img{
     display: flex;
     justify-content: center;
+    padding-bottom: 88px;
   }
   
   .sec1-img img{
@@ -173,7 +174,7 @@
     line-height: 21px;
     }
   .latest-trends-image{
-    background-image: url(../images/latest-trends.png); 
+    background-image: url(assets/images/latest-trends.png);
     background-position: center;
     background-size: cover;  
     width: 1200px;
