@@ -5,6 +5,10 @@
   text-decoration: none;
 }
 
+body{
+  background-color:#d3d3d3;
+}
+
 
 header {
   display: flex;
@@ -216,7 +220,7 @@ h6 {
   padding-bottom: 50px;
   border-radius: 20px;
   width: 1200px;
-
+  background-color: #fff;
 }
 .latest-trends .fashion{
   position: absolute;
@@ -239,7 +243,7 @@ h6 {
   height: 700px;
   border-radius: 20px;
   padding-top: 50px;
- 
+  padding-bottom: 88px;
 
 }
 .mallory{
@@ -308,7 +312,9 @@ h6 {
 
 .card{
   display: flex;
-  gap: 45.49px;  
+  gap: 45.49px; 
+  background-color: #fff; 
+  border-radius: 20px;
 }
 
 .card-btn {
@@ -480,6 +486,8 @@ h6 {
   position: relative;
   left: -350px;
   padding-right: 300px;
+  padding-top: 133px;
+  padding-bottom: 50px;
 }
 .trending-container {
   display: flex;
